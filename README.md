@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clkoea1kk002508lc17voz1iz/stats?cursusId=21&coalitionId=239" alt="bsalgado's 42 stats" /></a>
+
 <!--
 **buser23/buser23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://profile.intra.42.fr/users/bsalgado
+

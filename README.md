@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clkoea1kk002508lc17voz1iz/stats?cursusId=21&coalitionId=239" alt="bsalgado's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/bsalgado?1337Badge=off&UM6P=off" alt="bsalgado's 42 stats" /></a>
 
 <!--
 **buser23/buser23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

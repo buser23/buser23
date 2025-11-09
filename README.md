@@ -22,7 +22,6 @@ Legacy academic projects from [42 Porto](https://www.42porto.com/) – showcasin
 - 🔁 **get_next_line** → Reading files line-by-line efficiently.  
 - 🖨️ **ft_printf** → Recreating the `printf()` function in C.  
 - ⚙️ **Push_swap** → Algorithmic project focused on sorting stacks efficiently.  
-- 💻 **MiniShell** → Implementation of a basic Unix shell.  
 
 *(These projects represent my foundations in structured programming and problem-solving.)*
 

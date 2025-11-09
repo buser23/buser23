@@ -24,7 +24,7 @@ I’m passionate about connecting people, technology, and business value.
 
 ---
 
-## 🧠 42 Porto Projects  
+## 🧠 42 Porto Projects 
 
 Legacy academic projects from [42 Porto](https://www.42porto.com/) — showcasing my foundations in **software engineering, algorithms, and systems programming**:  
 
@@ -36,6 +36,7 @@ Legacy academic projects from [42 Porto](https://www.42porto.com/) — showcasin
 | **Push_swap** | Sorting algorithms & data structures |
 
 *(These projects represent my foundations in structured programming and problem-solving.)*
+<img src="https://img.shields.io/badge/42%20Porto-000000?style=flat&logo=42&logoColor=white" alt="42 Porto"/>
 
 ---
 
@@ -85,6 +86,10 @@ Legacy academic projects from [42 Porto](https://www.42porto.com/) — showcasin
 
 ## 🎯 Fun Fact  
 > I’ve worked across six industries and still believe the hardest bugs are people problems 😄  
+
+---
+
+🎟️ Attending Web Summit Lisbon 2025 — reach out if you'd like to connect!
 
 ---
 

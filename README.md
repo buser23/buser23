@@ -43,7 +43,7 @@ Legacy academic projects from [42 Porto](https://www.42porto.com/) — showcasin
 ## 🧩 Recent Side Projects  
 
 - 💹 [Crypto Tracker CLI](https://github.com/buser23/crypto-tracker-cli) → Simple Python script that fetches live crypto prices from CoinGecko API.  
-- 🧠 [Mini AI Prompt Playground](https://github.com/teuusername/mini-ai-playground) → Local sandbox for experimenting with prompt-writing and AI ideas.  
+- 🧠 [Mini AI Prompt Playground](https://github.com/buser23/mini-ai-playground) → Local sandbox for experimenting with prompt-writing and AI ideas.  
 - 🧭 [Agile Sprint Templates](https://github.com/teuusername/agile-sprint-templates) → Lightweight Markdown templates for agile ceremonies.
 
 *(These micro-projects reflect my curiosity and continuous learning beyond 42 Porto.)*

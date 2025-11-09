@@ -41,7 +41,7 @@ Legacy academic projects from [42 Porto](https://www.42porto.com/) – showcasin
 ## 🌍 Connect  
 
 📫 **Email:** [fernandes.s.f.bruno@gmail.com]  
-💼 **LinkedIn:** [linkedin.com/in/fernandessfbruno](https://www.linkedin.com/in/fernandessfbruno/)  
+💼 **LinkedIn:** [/in/fernandessfbruno](https://www.linkedin.com/in/fernandessfbruno/)  
 📍 **Based in:** Porto, Portugal 🇵🇹  
 
 ---

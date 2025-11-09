@@ -62,6 +62,19 @@ Legacy academic projects from [42 Porto](https://www.42porto.com/) — showcasin
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
 </p>
 
+# 💹 Crypto Tracker CLI  
+A simple Python script that fetches real-time crypto prices using the CoinGecko API.
+
+## 🧠 What it shows
+- Basic API integration
+- Data parsing and clean terminal output
+- My ongoing curiosity for blockchain and data tools
+
+Run it with:
+```bash
+python main.py
+
+
 ---
 
 ## 🌍 Connect  

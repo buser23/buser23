@@ -86,7 +86,7 @@ Legacy academic projects from [42 Porto](https://www.42porto.com/) — showcasin
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buser23&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=buser23&show_icons=true&hide_border=true" alt="stats" />
 </p>
 
 <p align="center">
